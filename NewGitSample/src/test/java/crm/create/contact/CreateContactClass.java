@@ -6,7 +6,7 @@ public class CreateContactClass {
 		
 		System.out.println("contact is created");
 		
-		
+		System.out.println("ele 1 is move");
 		
 
 	}
